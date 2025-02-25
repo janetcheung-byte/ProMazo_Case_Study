@@ -8,11 +8,11 @@
 This project is a **data-driven forecasting and optimization solution** for Acme’s sales prediction model. The algorithm is designed to predict **future sales and margins** while adhering to **trend growth and contribution constraints** across different organizational levels.
 
 The solution addresses the following objectives:  
-✅ **Maximize Sales**  
-✅ **Maximize Margin**  
-✅ **Hit a Sales Target While Maximizing Margin**  
-✅ **Hit a Margin Target While Maximizing Sales**  
-✅ **Generate 5-Year Projections**  
+ **Maximize Sales**  
+**Maximize Margin**  
+ **Hit a Sales Target While Maximizing Margin**  
+**Hit a Margin Target While Maximizing Sales**  
+**Generate 5-Year Projections**  
 
 ---
 
