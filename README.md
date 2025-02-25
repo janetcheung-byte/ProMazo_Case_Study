@@ -20,7 +20,8 @@ The solution addresses the following objectives:
 ```bash
  ProMazo_Case_Study
 │──  README.md              # Project documentation
-│──  synthetic_data.csv      # Generated dataset with realistic sales & margin data
+│──  synthetic_data.csv      # Generated dataset 
+│──  jupyter_notenook_report  # jupyter notebook in html
 │──  5_year_projections.csv  # Model's output with 5-year projections
 │──  src/                    # Source code directory
 │    ├──  data_preprocessing.py  # Script to generate synthetic data
